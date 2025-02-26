@@ -27,8 +27,8 @@ whether you're an individual hacker or a high-energy team, we've got your back!
 Ready to dive in? Follow these simple steps:
 
 1️⃣ Clone the Repository:
-git clone https://github.com/your-username/codewithhiral.git
-cd codewithhiral
+git clone https://github.com/hiral17234/codewithHiral.git
+cd codewithHiral
 
 2️⃣ Install Dependencies:
 npm install  # Install frontend dependencies  
@@ -39,7 +39,6 @@ npm start  # Runs the frontend
 python backend/app.py  # Starts the backend API  
 
 4️⃣ Open in Browser:
-Visit: http://localhost:3000 to access CodewithHiral.
 
 🔹 Boom! You're all set! 🚀
 
