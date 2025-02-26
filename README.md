@@ -21,7 +21,7 @@ whether you're an individual hacker or a high-energy team, we've got your back!
 
 🛠 Tech Stack We Used
 ![image](https://github.com/user-attachments/assets/2810a748-6534-4561-b966-d0fe640a08bc)
-🚀 We chose these technologies to ensure speed, scalability, and seamless integration.
+  🚀 We chose these technologies to ensure speed, scalability, and seamless integration.
 
  Getting Started – Let’s Get You Coding!
 Ready to dive in? Follow these simple steps:
